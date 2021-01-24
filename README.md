@@ -1,4 +1,4 @@
-# Meat
+#<center>Centered text</center>
 
 ## Table of Contents
 
