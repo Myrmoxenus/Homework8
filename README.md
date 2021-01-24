@@ -8,23 +8,23 @@
 5. [Questions](#questions)
 
 ## Installation: 
-dfsfds
+dsffsdfdssdf
 
 
 ## Usage:
-dsfds
+dfsfdsdsf
 
 ## License: 
-dsdsf
+fsddfsf
 
 
 ## Contributing: 
-github.com/myrmoxenus
+Myrmoxenus(https://github.com/Myrmoxenus)
 
 
 ## Tests: 
-ds
+fdsfsddfs
 
 
 ## Questions: 
-dfsfds
+ddffdssdf
