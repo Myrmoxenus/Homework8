@@ -1,4 +1,6 @@
-#<center>Centered text</center>
+#<p align="justify">
+  Lorem ipsum
+</p>
 
 ## Table of Contents
 
