@@ -8,17 +8,20 @@ function inquiryInput(readMeSectionName){
   this.message = readMeSectionName + ":"
 }
 //Desired sections of the ReadMe
-const readMeSections = ["Title", "Description", "Installation", "Usage", "License", "Contributing", "Tests", "Questions"]
+const readMeSections = ["Title", "Description", "Installation", "Usage", "Contributing", "Tests", "Questions"]
+
+//Generates a new array from readMeSections of usable inquiryInputs
+function generateReadMeSectionArray(){
+  let readMeObjectInputArray = []
+  for(i=0;i<readMeSections.length;i++){
+    readMeObjectInputArray.push(new inquiryInput(readMeSections[i]))
+  }
+  return readMeObjectInputArray
+}
 
 inquirer
   .prompt([
-new inquiryInput("Title"),
-new inquiryInput("Description"),
-new inquiryInput("Installation"),
-new inquiryInput("Usage"),
-new inquiryInput("Contributing"),
-new inquiryInput("Tests"),
-new inquiryInput("Questions"),
+...generateReadMeSectionArray(),
 {
   type: 'list',
   name: 'License',

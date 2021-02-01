@@ -1,6 +1,6 @@
 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# Good README Generator - Homework 8
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# s
 
 ## Table of Contents
 
@@ -12,22 +12,22 @@
 6. [Questions](#questions)
 
 ## Description:
-Generates MD filed to be used as READMEs based on user input via npm Inquirer.
+s
 
 ## Installation: 
-Inquirer required. Run app.js from terminal.
+s
 
 ## Usage:
-Answer prompted questions to generate an appropriate README file.
+s
 
 ## License: 
-MIT
+Apache 2.0
 
 ## Contributing: 
-[Myrmoxenus](https://github.com/Myrmoxenus)
+[s](https://github.com/s)
 
 ## Tests: 
-I'm not really sure what goes in the "Tests" section, but the rubric demanded one.
+s
 
 ## Questions: 
- Further questions can be directed to my e-mail at  scopocira@gmail.com
+ Further questions can be directed to my e-mail at  s
