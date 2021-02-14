@@ -1,6 +1,6 @@
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-# s
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Good ReadME Generator
 
 ## Table of Contents
 
@@ -8,26 +8,22 @@
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [License](#license)
-5. [Tests](#tests)
-6. [Questions](#questions)
+
 
 ## Description:
-s
+Completed as a homework assignment for Washington University's Fullstack Web Development Program. The purpurpose of the application is using inquirer.js to ask the user for a series of prompts, the responses to which will be compiled into a md file with formatting appropriate for a ReadMe.
 
 ## Installation: 
-s
+First run npm install to install the required npm dependencies. From there, the application can be run from the command line using "node app.js".
 
 ## Usage:
-s
+Upon running the application, it will prompt the user with the headers requested by the assignment. The user can enter the appropriate text and the application will appropriately format a ReadME.
 
 ## License: 
-Apache 2.0
+MIT
 
 ## Contributing: 
-[s](https://github.com/s)
+[Myrmoxenus](https://github.com/Myrmoxenus)
 
-## Tests: 
-s
-
-## Questions: 
- Further questions can be directed to my e-mail at  s
+Screenshot: 
+![Screenshot of ReadMe Generator in Use](Images/screenshot.png)
