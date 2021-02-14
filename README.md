@@ -8,6 +8,8 @@
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [License](#license)
+5. [Screenshot](#screenshot)
+6. [Walkthrough Video](#walkthrough)
 
 
 ## Description:
@@ -25,5 +27,8 @@ MIT
 ## Contributing: 
 [Myrmoxenus](https://github.com/Myrmoxenus)
 
-Screenshot: 
+## Screenshot: 
 ![Screenshot of ReadMe Generator in Use](Images/screenshot.png)
+
+## Walkthrough:
+[Link to Walkthrough Video!](https://drive.google.com/drive/folders/14_x_SZZa_f6u6mtyQxYZtJMleikLuig4?usp=sharing)
